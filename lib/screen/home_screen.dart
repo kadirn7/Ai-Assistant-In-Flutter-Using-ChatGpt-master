@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
-import '../helper/ad_helper.dart';
+//import '../helper/ad_helper.dart';
 import '../helper/global.dart';
 import '../helper/pref.dart';
 import '../model/home_type.dart';
