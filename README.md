@@ -1,4 +1,7 @@
 # AI Assistant App Flutter
+<div align="center">
+  <img src="assets\YapayZekaUygulaması.jpeg" alt="Portfolio Preview" width="600">
+</div>
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Dart](https://img.shields.io/badge/Dart-100%25-brightgreen)
